@@ -1,7 +1,7 @@
 # picampirpush
 ---
 ## Purpose:
-picampirpush takes, as the name suggests, photos after having detected a Motion at the PIR-Sensor. Then 16 pictures are taken and assembled. Finally these pictures are send via a Pushbullet account to your mobile.
+picampirpush takes, as the name suggests, photos after having detected a Motion at the PIR-Sensor. Then 16 pictures are taken and assembled. Finally these pictures are sent via a Pushbullet account to your mobile.
 ## Requirements:
 blub
 ## ToDo:
